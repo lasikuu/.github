@@ -2,4 +2,4 @@
 
 Freelance software development and consulting services. Communication in English, Japanese and Finnish. Based in Japan.
 
-[https://lasikuu.jp](lasikuu.jp)
+[lasikuu.jp](https://lasikuu.jp)
